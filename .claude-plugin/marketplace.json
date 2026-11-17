@@ -1,0 +1,15 @@
+{
+  "name": "konabayev",
+  "description": "Agent skills for marketing in Kazakhstan, by Tugelbay Konabayev.",
+  "owner": {
+    "name": "Tugelbay Konabayev",
+    "url": "https://konabayev.com"
+  },
+  "plugins": [
+    {
+      "name": "kz-marketing",
+      "source": "./",
+      "description": "Marketing skills for businesses selling in Kazakhstan: Kaspi marketplace, 2GIS, Google and Yandex maps, advertising law, search and social channels."
+    }
+  ]
+}

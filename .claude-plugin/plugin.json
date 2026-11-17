@@ -1,0 +1,24 @@
+{
+  "name": "kz-marketing",
+  "displayName": "Kazakhstan Marketing Kit",
+  "version": "0.1.0",
+  "description": "Marketing skills for businesses selling in Kazakhstan: marketplace listings, map listings, advertising rules, search and social channels. Facts are dated and linked to official sources.",
+  "author": {
+    "name": "Tugelbay Konabayev",
+    "url": "https://konabayev.com"
+  },
+  "homepage": "https://konabayev.com/tools/kazakhstan-marketing-skills/",
+  "repository": "https://github.com/2gelbuy/kz-marketing-skills",
+  "license": "MIT",
+  "keywords": [
+    "kazakhstan",
+    "marketing",
+    "kaspi",
+    "2gis",
+    "google-maps",
+    "yandex-maps",
+    "advertising-law",
+    "seo",
+    "social-media"
+  ]
+}
